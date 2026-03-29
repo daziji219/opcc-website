@@ -1,1 +1,1 @@
-{"name": "opcc-website-root", "private": true, "scripts": {"build": "cd opcc-website && npm run build", "dev": "cd opcc-website && npm run dev"}}
+{"name": "opcc-website-root", "private": true, "scripts": {"build": "cd opcc-website && npm install && npm run build", "dev": "cd opcc-website && npm run dev"}}
